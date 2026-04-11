@@ -13,4 +13,4 @@
 - **Vibe:** Building things that matter (and sometimes just for fun)
 
 ## 📫 Let's Connect!
-- [LinkedIn](#) | [GitHub](#) | [
+- [LinkedIn]([#](https://www.linkedin.com/in/arnav-bendre-3b8466323/)) | [GitHub](https://github.com/aurnawr/) | [
