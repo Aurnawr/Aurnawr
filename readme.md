@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Arnav Bendre
 
 🎓 **Undergrad at IIT Roorkee**
-💻 *Part-time Engineer, Full-time into ML typeshi* 🚀
+💻 *Part-time Engineer, Full time coffee addict* 🚀
 
 ## 🛠️ About Me
 - 🧠 Deeply passionate about Machine Learning, AI, and building cool stuff.
