@@ -1,6 +1,5 @@
 # Hi, I'm Arnav
-
-Second-year undergraduate at **IIT Roorkee** and a core member of the **Data Science Group**. I work on efficient and reliable multimodal generative models — mostly on why vision-language models hallucinate, and whether the fixes we publish for it actually do what we claim.
+Pre-final year undergraduate at **IIT Roorkee** and a core member of the **Data Science Group**. I work on efficient and reliable multimodal generative models — mostly on why vision-language models hallucinate, and whether the fixes we publish for it actually do what we claim.
 
 ## What I work on
 
