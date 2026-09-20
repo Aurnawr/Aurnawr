@@ -1,16 +1,36 @@
-# Hey there! 👋 I'm Arnav Bendre
+# Hi, I'm Arnav
 
-🎓 **Undergrad at IIT Roorkee**
-💻 *Part-time Engineer, Full time coffee addict* 🚀
+Second-year undergraduate at **IIT Roorkee** and a core member of the **Data Science Group**. I work on efficient and reliable multimodal generative models — mostly on why vision-language models hallucinate, and whether the fixes we publish for it actually do what we claim.
 
-## 🛠️ About Me
-- 🧠 Deeply passionate about Machine Learning, AI, and building cool stuff.
-- ⚡ Always open to exploring new tech and solving complex problems.
-- 🚀 Currently working on making machines smarter and building robust software.
+## What I work on
 
-## 💡 What I Do
-- **Domains:** Machine Learning, Deep Learning, Software Engineering
-- **Vibe:** Building things that matter (and sometimes just for fun)
+- **VLM hallucination, mechanistically.** I'm finishing a reproducibility and extension study of contrastive decoding methods (VCD, SID, ICD, OLM, PBA) on POPE and MME. The short version of the finding: contrastive decoding behaves like a distribution shifter rather than a visual-grounding corrector — the Yes-rate shifts are robust, the accuracy gains often aren't.
+- **Interpretability tooling.** Activation patching, logit lens, causal tracing, CKA — mostly in service of answering *why* a method works before believing *that* it works.
+- **Efficient generation.** Diffusion distillation, and the general question of what you can remove from a model without losing what matters.
 
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/arnav-bendre-3b8466323/) | [GitHub](https://github.com/aurnawr/) | 
+I care more about mechanism than leaderboard deltas. A result I can't explain isn't finished.
+
+## Selected work
+
+- **B-DENSE** — ICLR 2026 workshop paper.
+- **cd-rethink** — statistical reanalysis of contrastive decoding for VLM hallucination: bootstrap CIs, flip-level TP/FP decomposition, and a code-level audit of published implementations. (Paper in revision.)
+
+## Open source
+
+Recent contributions to the tooling I use in my own research:
+
+- **TransformerLens** — fixed a `stop_at_layer` guard (#1769, merged).
+- **lmms-eval** — answer-parsing fixes for the MathVision task.
+
+Currently looking at evaluation-fidelity issues: cases where a benchmark harness reports a score that doesn't match the number in the original paper.
+
+## Toolbox
+
+Python · PyTorch · Qwen2.5-VL · LLaVA · TransformerLens · nnsight · lm-eval-harness · vLLM
+
+## Elsewhere
+
+I'm looking for research internships where the work is model understanding rather than model deployment. If that's the kind of thing your lab does, I'd be glad to hear from you.
+
+- Email: bendrearnav6@gmail.com
+- Scholar / site: (https://aurnawr.github.io/)
