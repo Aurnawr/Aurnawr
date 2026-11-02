@@ -1,2 +1,2 @@
 # Hi, I'm Arnav 
-A prefinal year undergrad in Energy Engineering at Indian Institute of Technology, Roorkee. I like data 
+A prefinal year undergrad in Energy Engineering. I like data 
